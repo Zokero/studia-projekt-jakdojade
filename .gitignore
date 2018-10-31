@@ -42,7 +42,6 @@ buildNumber.properties
 
 .idea/*
 .idea
-/target/
 .settings
 .classpath
 .project
