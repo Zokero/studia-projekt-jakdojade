@@ -38,7 +38,7 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
-## directories ##
+### directories ###
 
 .idea/*
 .idea
@@ -48,4 +48,13 @@ buildNumber.properties
 .project
 /repos/*
 
+### Compiled source ###
+
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.iml
 # End of https://www.gitignore.io/api/java,maven
