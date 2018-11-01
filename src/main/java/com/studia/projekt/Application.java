@@ -1,12 +1,12 @@
-package com.studia.projekt.studiaprojektjakdojade;
+package com.studia.projekt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class StudiaProjektJakdojadeApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StudiaProjektJakdojadeApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 }
