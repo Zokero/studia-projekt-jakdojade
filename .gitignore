@@ -1,3 +1,29 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
 # Created by https://www.gitignore.io/api/java,maven
 # Edit at https://www.gitignore.io/?templates=java,maven
 
@@ -57,9 +83,3 @@ buildNumber.properties
 *.o
 *.so
 *.iml
-
-# Ignore everything in this directory
-*
-# Except this file
-src/
-# End of https://www.gitignore.io/api/java,maven
