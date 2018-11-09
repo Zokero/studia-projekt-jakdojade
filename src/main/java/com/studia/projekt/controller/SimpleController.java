@@ -15,4 +15,14 @@ public class SimpleController {
         //modelMap.put("hello", "Witaj świecie");
         return "hello";
     }
+    @GetMapping("/aboutus")
+    public String aboutUs(){
+        //modelMap.put("hello", "Witaj świecie");
+        return "aboutus";
+    }
+    @GetMapping("/map")
+    public String mapView(){
+        //modelMap.put("hello", "Witaj świecie");
+        return "map";
+    }
 }
