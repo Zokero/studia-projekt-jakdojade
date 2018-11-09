@@ -1,1 +1,2 @@
-alert("I'm active");
+// Animations init
+new WOW().init();
