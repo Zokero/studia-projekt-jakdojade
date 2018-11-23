@@ -48,5 +48,4 @@
   <!-- SCRIPTS -->
   <%@ include file="parts/footer.jsp" %>
 </body>
-
 </html>
